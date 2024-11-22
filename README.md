@@ -7,7 +7,7 @@ Each chapter introduces new concepts, and these exercises are my way of practici
 
 ## 📚 **About This Repository**
 This repository is a collection of small projects and exercises designed to reinforce fundamental Python programming skills. Python initially caught my attention when we started coding in class. 
-At first, I struggled to make sense of all the concepts and syntax, but after reading advice on r/learnpython, many users recommended starting with the book Python Crash Course by Eric Matthes. 
+At first, I struggled to make sense of all the concepts and syntax, but after reading advice on r/learnpython, many Redditors recommended starting with the book Python Crash Course by Eric Matthes. 
 This is what inspired me to create this repository. It’s a work in progress as I continue to improve and grow as a programmer, so please bear with me. 
 I still want to showcase what I’ve learned so far – this is an ongoing journey.
 
