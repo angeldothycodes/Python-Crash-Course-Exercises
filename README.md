@@ -30,7 +30,7 @@ I still want to showcase what I’ve learned so far – this is an ongoing journ
 ---
 
 ## 🛠 **How to Use This Repository**
-`. Navigate to the desired chapter folder.
+1. Navigate to the desired chapter folder.
 2. Open and run the .ipynb files using Jupyter Notebook.
 
 ---
