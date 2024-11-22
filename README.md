@@ -1,4 +1,4 @@
-# Python Crash Course Exercises 🚀
+# Python Crash Course Exercises 🐍🐍
 
 Welcome to my Python learning journey! This repository contains the exercises I’ve completed from the book **Python Crash Course** by Eric Matthes. 
 Each chapter introduces new concepts, and these exercises are my way of practicing and applying what I've learned.
