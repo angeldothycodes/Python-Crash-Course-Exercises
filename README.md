@@ -25,6 +25,7 @@ I still want to showcase what I’ve learned so far – this is an ongoing journ
   - Functions
   - Classes
   - Files and Exceptions
+  - etc.
 
 ---
 
