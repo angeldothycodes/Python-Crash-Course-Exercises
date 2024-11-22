@@ -30,6 +30,24 @@ I still want to showcase what I’ve learned so far – this is an ongoing journ
 ---
 
 ## 🛠 **How to Use This Repository**
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/angeldothycodes/Python-Crash-Course-Exercises.git
+`. Navigate to the desired chapter folder.
+2. Open and run the .ipynb files using Jupyter Notebook.
+
+---
+
+## ✨ **Why I Created This Repository**
+This repository serves three main purposes:
+
+1. To document my progress as I learn Python.
+2. To share my work with others who are also learning Python.
+3. To receive feedback and suggestions for improvement from the community.
+
+---
+
+## 🔗 **Connect With Me**
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/angelicadorothytolome19/) or leave suggestions by opening an issue in this repository.
+
+---
+
+#  ⚠️ **Disclaimer**
+These exercises are for learning purposes only and are based on the book Python Crash Course. All rights for the original content belong to the author, Eric Matthes.
